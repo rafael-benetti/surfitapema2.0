@@ -48,9 +48,9 @@ class AppContent {
   static final String loginCancelled = "Login cancelled by the user.";
   static final String oxooLiveTV = "OXOO - Live TV & Events";
   static final String backToLogin = "Back to login ";
-  static final String exploreByGenre = "Explore By Genre";
-  static final String more = "More";
-  static final String moreCaps = "MORE";
+  static final String exploreByGenre = "Explore By Genre-";
+  static final String more = "More-";
+  static final String moreCaps = "MORE-";
   static final String comments = "Comments";
   static final String yourComments = "Your Comments";
   static final String addComments = "Add Comments";

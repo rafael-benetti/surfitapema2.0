@@ -1,12 +1,12 @@
 class Config {
-  //set your api server url here
+  //set your api server url here http://demo.redtvlive.com/oxoo/v13/rest-api/   surfitapema
   static String apiServerUrl              = "http://demo.redtvlive.com/oxoo/v13/rest-api/";
-  //set your api key here
+  //set your api key here "spagreen"
   static String apiKey                    = "spagreen";
   //set your onesignalID here
   static String oneSignalID               = "xxxxx-xxxx-xxxx-xxxx-xxxxxxx";
   //set term and conditaions url here
-  static String termsPolicyUrl            = "https://spagreen.net/tearms-of-services/";
+  static String termsPolicyUrl            = "http://appsurf.surfitapema.com.br/tearms-of-services/";
 
 
 

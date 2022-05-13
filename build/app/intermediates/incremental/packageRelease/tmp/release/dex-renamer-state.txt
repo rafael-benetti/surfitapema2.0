@@ -1,4 +1,4 @@
-#Thu May 12 21:18:04 BRT 2022
+#Thu May 12 23:29:55 BRT 2022
 base.1=C\:\\Users\\User\\Documents\\surfitapema2.0\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes2.dex
 path.1=classes2.dex
 base.0=C\:\\Users\\User\\Documents\\surfitapema2.0\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
