@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\sign_in_with_apple\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\d157cc1d4d9b4e40e804eac0c36a4391\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\sign_in_with_apple\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\d157cc1d4d9b4e40e804eac0c36a4391\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\sign_in_with_apple\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\d157cc1d4d9b4e40e804eac0c36a4391\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\sign_in_with_apple\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\d157cc1d4d9b4e40e804eac0c36a4391\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

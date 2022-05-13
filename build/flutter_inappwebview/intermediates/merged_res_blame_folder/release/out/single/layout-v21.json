@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\flutter_inappwebview\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\d928941745299372f8889bddc0bf98bb\\transformed\\core-1.7.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\flutter_inappwebview\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\d928941745299372f8889bddc0bf98bb\\transformed\\core-1.7.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\flutter_inappwebview\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\d928941745299372f8889bddc0bf98bb\\transformed\\core-1.7.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\flutter_inappwebview\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\d928941745299372f8889bddc0bf98bb\\transformed\\core-1.7.0\\res\\layout-v21\\notification_action.xml"
+    }
+]

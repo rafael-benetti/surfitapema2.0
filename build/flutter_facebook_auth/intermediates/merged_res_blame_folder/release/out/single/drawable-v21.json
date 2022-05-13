@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\flutter_facebook_auth\\intermediates\\res\\merged\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\b5cd89c7060e7400d97baa15514e20e4\\transformed\\appcompat-1.1.0\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\flutter_facebook_auth\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\b5cd89c7060e7400d97baa15514e20e4\\transformed\\appcompat-1.1.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\flutter_facebook_auth\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\b5cd89c7060e7400d97baa15514e20e4\\transformed\\appcompat-1.1.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\flutter_facebook_auth\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\b5cd89c7060e7400d97baa15514e20e4\\transformed\\appcompat-1.1.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\flutter_facebook_auth\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\d157cc1d4d9b4e40e804eac0c36a4391\\transformed\\core-1.6.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\flutter_facebook_auth\\intermediates\\res\\merged\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\b5cd89c7060e7400d97baa15514e20e4\\transformed\\appcompat-1.1.0\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    }
+]

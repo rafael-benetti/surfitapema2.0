@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/zamoo/livedemo/BuildConfig.java
+ com.zamoo.livedemo.BuildConfig

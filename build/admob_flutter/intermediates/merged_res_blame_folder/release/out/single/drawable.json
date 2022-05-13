@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\admob_flutter\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\f1b339c1d7453b2eac93b37ae45b5389\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\admob_flutter\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\f1b339c1d7453b2eac93b37ae45b5389\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\admob_flutter\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\d157cc1d4d9b4e40e804eac0c36a4391\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\admob_flutter\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\f1b339c1d7453b2eac93b37ae45b5389\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\admob_flutter\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\f1b339c1d7453b2eac93b37ae45b5389\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\admob_flutter\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\d157cc1d4d9b4e40e804eac0c36a4391\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\admob_flutter\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\d157cc1d4d9b4e40e804eac0c36a4391\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\admob_flutter\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\f1b339c1d7453b2eac93b37ae45b5389\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\admob_flutter\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\f1b339c1d7453b2eac93b37ae45b5389\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\admob_flutter\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\f1b339c1d7453b2eac93b37ae45b5389\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\admob_flutter\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\f1b339c1d7453b2eac93b37ae45b5389\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\admob_flutter\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\f1b339c1d7453b2eac93b37ae45b5389\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\admob_flutter\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\f1b339c1d7453b2eac93b37ae45b5389\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\admob_flutter\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\d157cc1d4d9b4e40e804eac0c36a4391\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\admob_flutter\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\f1b339c1d7453b2eac93b37ae45b5389\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\admob_flutter\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\f1b339c1d7453b2eac93b37ae45b5389\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\admob_flutter\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\f1b339c1d7453b2eac93b37ae45b5389\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\admob_flutter\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\f1b339c1d7453b2eac93b37ae45b5389\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    }
+]

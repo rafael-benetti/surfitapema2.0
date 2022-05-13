@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\d157cc1d4d9b4e40e804eac0c36a4391\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\d157cc1d4d9b4e40e804eac0c36a4391\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\d157cc1d4d9b4e40e804eac0c36a4391\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\surfitapema2.0\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\d157cc1d4d9b4e40e804eac0c36a4391\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    }
+]
